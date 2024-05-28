@@ -1,7 +1,7 @@
 {
     "author": "Brenden Dayley",
     "name": "censorify",
-    "version": "0.1.2",
+    "version": "0.1.1",
     "description": "Censors word out of text",
     "main": "censortext",
     "repository": {
