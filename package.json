@@ -1,0 +1,19 @@
+{
+    "author": "Brenden Dayley",
+    "name": "censorify",
+    "version": "0.1.2",
+    "description": "Censors word out of text",
+    "main": "censortext",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/na86naik/censorify.git"
+    },
+    "keywords": [
+        "censor",
+        "words"
+    ],
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
